@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="styles/style.css"/>
+  <title>OPINION</title>
+</head>
+<body style="text-align: center;"><button>
+  <h1>
+    <p style="text-align: center;"><b>Texto aleatório</b></p>
+    <h3 style="font-size: 100%;"style="text-align: center;">○ INTRODUÇÃO</h3>
+    <p style="font-size: 100%;">Esse é um texto simples e repleto de erros básicos de português destinado apenas para expressar uma opinião impopular sobre qualquer coisa, até porquê aparentemente nenhuma de minhas opiniões é popular.</p>
+    <h3 style="font-size: 100%;">○ PORQUE AS PESSOAS TEM MEDO DE SER FELIZ</h3>
+    <p style="font-size: 100%;">Hoje as pessoas tem um visível medo em se expressar, seja sentimentalmente ou uma simples opinião, possivelmente por medo de se tornar uma piada em meio de pessoas que também têm medo de se expressar, por isso venho aqui expressar minha opinião rasa sobre esse assunto.
+  Expressar uma opinião não é se colocar acima de outras pessoas mas sim mostrar o seu posicionamento sobre determinado assunto, não há porquê ter medo, pessoas perdidas no meio de um tiroteio de informações e sem a sua própria opinião são facilmente manipuladas e consequentemente alienadas por pessoas que só tem interesse em subir mais e mais pisando na cabeça dessas.
+  Assim como expressar uma opinião, porque não expressar sentimentos?
+  Única certeza na vida é a morte e nós não sabemos quando vai chegar, expressem seus sentimentos sem medo da opinião de terceiros, eles são amargurados que querem que todos sejam incapazes igual a eles, seja diferente.
+  Não tenha medo de se divertir, vão te chamar de idiota e falaram que é vergonhoso, seja vergonhoso se isso te faz feliz, seja você mesmo, nunca se baseia na opinião dos outros.</p>
+    <h3 style="font-size: 100%;">○ CONCLUSÃO</h3>
+    <p style="font-size: 100%;">Escrevi isso sem preparo algum, então a falta de coesão pode ser por isso.
+  Seja feliz, seja você mesmo.</p>
+  </h1></button>
+</body>
+</html>
